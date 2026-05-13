@@ -1,0 +1,32 @@
+body {
+   font-family: sans-serif;
+   background: lightpink;
+}
+
+.main {
+   width: 400px;
+   margin: 16px auto;
+   background: grey;
+   border: 10px solid cadetblue;
+   padding: 20px;
+   padding-left: 30px;
+}
+
+h1 {
+   
+   font-family:'Courier New', Courier, monospace;
+   height: auto;
+   width: 300px;
+   background-color: lightslategrey;
+   padding: 10px;
+}
+
+h2 {
+        color: darkgreen;    
+}
+
+img {
+   border: 20px solid black;
+   display: inline-block;
+   
+}
